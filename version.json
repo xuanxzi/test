@@ -1,0 +1,5 @@
+{
+    "version": "1.0.6.6",
+    "updater": "0.0.3",
+    "note": "V1.0.6.6: fixed bot not stopping and banning due to gambling function & minor bugs fixed / Added prefix & controlc detect(config.json)"
+}
